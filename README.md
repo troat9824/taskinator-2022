@@ -1,5 +1,6 @@
 # Taskinator 2022
 
+![Alt text](./assets/images/taskinator-screenshot.jpg)
 
 ## Purpose
 To be able to keep track of your tasks 
